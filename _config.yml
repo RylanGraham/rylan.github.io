@@ -83,9 +83,9 @@ author:
   name             : "Rylan Graham"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Prince George, British Columbia, Canada"
+  employer         : "University of Northern British Columbia" (www.unbc.ca) 
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "rylan.graham@unbc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "rylangraham"
   vine             :
   weibo            :
   xing             :

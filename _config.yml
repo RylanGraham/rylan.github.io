@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rylan Graham"
+  name             :
   avatar           : "profile.png"
   bio              : "Assistant Professor, UNBC"
   location         : "Prince George, British Columbia, Canada"
-  employer         : "University of Northern British Columbia" (www.unbc.ca) 
+  employer         : "University of Northern British Columbia"
   pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "rylan.graham@unbc.ca"

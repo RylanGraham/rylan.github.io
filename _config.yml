@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &rylangraham
+  username               : "&rylangraham"
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "&rylan-graham/"
+  linkedin         : "rylan-graham"
   orcid            : "https://orcid.org/0000-0002-9602-4634"
   pinterest        :
   soundcloud       :

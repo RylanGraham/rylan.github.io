@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rylan Graham, PhD RPP MCIP"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor, UNBC"
   location         : "Prince George, BC, Canada"
-  employer         : "U. of Northern British Columbia"
+  employer         : "University of Northern BC"
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Rylan+graham&oq=Rylan"
   email            : "rylan.graham@unbc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9602-4634"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "rylangraham"
+  twitter          : "https://twitter.com/rylangraham"
   vine             :
   weibo            :
   xing             :

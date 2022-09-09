@@ -17,4 +17,4 @@ Prior to joining UNBC, I was a Postdoctoral Research Fellow in the [Westman Cent
 
 Research Interests 
 ======
-I have broad interests across the planning discipline and am passionate about building more sustainable, liveable and vibrant cities. Related to this, my research intersts focus on the topics of urban sprawl, growth management, intensification, downtown revitalization with a particular interest in mid-sized Canadian cities. 
+I have broad interests across the planning discipline and am passionate about building more sustainable, liveable and vibrant cities. My research interests centre around the topics of urban sprawl, growth management, intensification, downtown revitalization, and with a particular interest in mid-sized Canadian cities. 

@@ -13,7 +13,7 @@ I am an Assistant Professor in the School of Planning and Sustainability at the 
 Background
 ======
 
-Prior to joining UNBC, I was a Postdoctoral Research Fellow in the Westman Centre for Real Estate Studies and a Sessional Instructor in the School of Architecture, Planning and Landscape at the University of Calgary. I received my PhD from the University of Calgary, a Master of Arts (Planning) from the University of Waterloo and a Bachelor of Arts (Geography) with Distinction from the University of Regina. I am a Full Member (MCIP) in the Canadian Institute of Planners (CIP) and a Registered Professional Planner (RPP) with the Planners Institute of British Columbia (PIBC). I have practiced as a planner throughout Western Canada. 
+Prior to joining UNBC, I was a Postdoctoral Research Fellow in the [Westman Centre for Real Estate Studies](https://haskayne.ucalgary.ca/westman-centre) and a Sessional Instructor in the [School of Architecture, Planning and Landscape](https://sapl.ucalgary.ca) at the University of Calgary. I received my PhD from the [University of Calgary](http://ucalgary.ca), a Master of Arts (Planning) from the [University of Waterloo](http://www.uwaterloo.ca) and a Bachelor of Arts (Geography) with Distinction from the [University of Regina](http://www.uregina.ca). I am a Full Member (MCIP) in the Canadian Institute of Planners (CIP) and a Registered Professional Planner (RPP) with the Planners Institute of British Columbia (PIBC). I have also practiced as a planner throughout Western Canada. 
 
 Research Interests 
 ======

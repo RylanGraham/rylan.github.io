@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "EVDP 627"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/627
+venue: "University of Calgary, School of Architecture, Planning and Landscape"
+date: 2017 - 2018
+location: "Calgary, Alberta, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+An introduction to planning history and theory. Develops a critical awareness of key historical, theoretical, and ethical frameworks; legal, political, and economic institutions; and an understanding of their implications for Canadian planning. Examines the historical evolution of community planning, and its influence on contemporary planning and the built environment. Develops an understanding of decision-making which integrates technical, social, environmental and political factors, and the professional roles of planners in this framework. A normative procedural approach to planning is presented, one which is appropriate for a pluralistic liberal democratic society.

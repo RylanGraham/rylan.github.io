@@ -11,7 +11,7 @@ title                    : "Rylan Graham, PhD RPP MCIP"
 title_separator          : "-"
 name                     : &name "Rylan Graham"
 description              : &description "personal description"
-url                      : "http://rylangraham.com/" 
+url                      : "https://rylangraham.com/" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Rylan Graham"
   avatar           : "RGrahamCrop.jpg"
   bio              : "Assistant Professor, UNBC"
   location         : "Prince George, BC, Canada"

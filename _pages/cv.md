@@ -18,16 +18,13 @@ Education
 Academic Experience
 ======
 * 2020 - : Assistant Professor
-  * School of Planning and Sustainability
-  * University of Northern British Columbia
+  * School of Planning and Sustainability, University of Northern British Columbia
 
 * 2017 - 2020: Sessional Instructor
-  * School of Architecture, Planning and Landscape
-  * University of Calgary
+  * School of Architecture, Planning and Landscape, University of Calgary
   
 * 2019 - 2020: Postdoctoral Research Fellow
-  * Westman Centre for Real Estate Studies
-  * University of Calgary
+  * Westman Centre for Real Estate Studies, University of Calgary
 
 Publications
 ======

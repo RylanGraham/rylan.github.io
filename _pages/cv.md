@@ -15,18 +15,19 @@ Education
 * M.A., Planning, University of Waterloo, 2012
 * Ph.D, University of Calgary, 2019
 
-Work experience
+Academic Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - : Assistant Professor
+  * School of Planning and Sustainability
+  * University of Northern British Columbia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2020: Sessional Instructor
+  * School of Architecture, Planning and Landscape
+  * University of Calgary
   
+* 2019 - 2020: Postdoctoral Research Fellow
+  * Westman Centre for Real Estate Studies
+  * University of Calgary
 
 Publications
 ======

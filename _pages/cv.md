@@ -46,4 +46,38 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Faculty of Environment (UNBC):
+  * 2022 +		Member, External Relations Committee
+  * 2022 +		Member, Faculty Association Events Committee
+
+* School of Planning and Sustainability (UNBC):
+  * 2021 +		Member, Appointment Selection Committee (Environmental Planning)
+  * 2021 +		Member, Curriculum Committee (Environmental Planning)
+
+Professional societies:
+  *  2022 +	Member, 2023 Sun Peaks (It Takes a Village!) Conference Organizing Committee, Planning Institute of British Columbia
+  * 2022 +		Member, Urban Plan Canadian Working Group, Urban Land Institute
+  * 2021 + 	Member, Academic Liaison Committee, UNBC Faculty Representative, Planning Institute of British Columbia 
+  * 2021 – 2022	Member, Student Internship Committee, Planning Institute of British Columbia 
+  * 2019 +	Member, Fellows Selection Jury, Canadian Institute of Planners
+  * 2017	Member, Membership Committee, Canadian Institute of Planners
+  * 2017	Coordinator (Volunteers), Canadian Institute of Planners National Conference: Building Resilience
+
+Academic:
+  * 2021 +	Member, Scientific Committee, School of Architecture, Planning and Landscape Annual Research Conference, University of Calgary
+  * 2021	Moderator, School of Architecture, Planning and Landscape 5th Annual Research Conference, University of Calgary
+
+Graduate student societies:
+  * 2019 - 2020	Postdoctoral Research Fellow Representative for Haskayne School of Business, Postdoctoral Representatives Committee, University of Calgary
+  * 2018 - 2019	Member, Awards Committee, Graduate Student Association, University of Calgary
+  * 2017	Member, Academic Standing Committee, Graduate Student Association, University of Calgary
+  * 2017	Member, Sustainability Committee, Graduate Student Association, University of Calgary
+  * 2014 – 2015	PhD Program Representative, Environmental Design Student Association, University of Calgary
+  * 2018 – 2019	Member, Scientific Committee, Faculty of Environmental Design Research Conference, University of Calgary
+  * 2014 – 2015	Member, Academic Appointment Review Committee, Faculty of Environmental Design, University of Calgary
+  * 2010 – 2012	Member, Association of Graduate Planners, University of Waterloo
+
+Editorial duties:
+  * 2022 +	Member, PLAN Canada Editorial Committee, Canadian Institute of Planners
+  * 2019 – 2021	Member, Editorial Board, PLAN NorthWest
+

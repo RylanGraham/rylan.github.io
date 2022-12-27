@@ -17,7 +17,7 @@ Education
 
 Academic Experience
 ======
-* 2020 - : Assistant Professor
+* 2020+ : Assistant Professor
   * School of Planning and Sustainability, University of Northern British Columbia
 
 * 2017 - 2020: Sessional Instructor
